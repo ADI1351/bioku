@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bioku/static/css/main.f0882192.css",
+    "main.js": "/bioku/static/js/main.2caf1dc7.js",
+    "index.html": "/bioku/index.html",
+    "main.f0882192.css.map": "/bioku/static/css/main.f0882192.css.map",
+    "main.2caf1dc7.js.map": "/bioku/static/js/main.2caf1dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0882192.css",
+    "static/js/main.2caf1dc7.js"
+  ]
+}
